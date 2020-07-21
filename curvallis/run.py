@@ -25,8 +25,8 @@ import math
 
 import matplotlib
 matplotlib.use('TkAgg')
-import tkinter
-from tkinter import Tk, Label, Button, Entry
+import Tkinter
+from Tkinter import Tk, Label, Button, Entry
 from matplotlib import pyplot, rcParams
 from matplotlib.backend_bases import NavigationToolbar2, FigureManagerBase
 from matplotlib.widgets import RectangleSelector
